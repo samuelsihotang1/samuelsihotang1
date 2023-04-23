@@ -15,8 +15,8 @@ I never give up because it is incredibly satisfying when I succeed after experie
 - ✉️ Email: samsihotang1@gmail.com
 - 📱 WhatsApp: +62895612360693
  <br>
+ 
   <div align="center">
   <a href="https://github.com/samuelsihotang1/Pemrograman-Prosedural"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Prosedural&theme=gotham&hide_border=true&show_description=true" alt="Pemrograman-Prosedural" width="38%"></a>
-  &nbsp;&nbsp;
   <a href="https://github.com/samuelsihotang1/Pemrograman-Berorientasi-Objek"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Berorientasi-Objek&theme=gotham&hide_border=true&show_description=true" alt="Pemrograman-Berorientasi-Objek" width="38%"></a>
   </div>
