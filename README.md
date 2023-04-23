@@ -16,7 +16,7 @@ I never give up because it is incredibly satisfying when I succeed after experie
 - 📱 WhatsApp: +62895612360693
  
   <div align="center">
-  <a href="https://github.com/samuelsihotang1/Pemrograman-Prosedural"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Prosedurals&theme=gotham&hide_border=true" alt="Pemrograman-Prosedural" width="38%"></a>
+  <a href="https://github.com/samuelsihotang1/Pemrograman-Prosedural"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Prosedural&theme=gotham&hide_border=true" alt="Pemrograman-Prosedural" width="38%"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/samuelsihotang1/Pemrograman-Berorientasi-Objek"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Berorientasi-Objeks&theme=gotham&hide_border=true" alt="Pemrograman-Berorientasi-Objek" width="38%"></a>
+  <a href="https://github.com/samuelsihotang1/Pemrograman-Berorientasi-Objek"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Berorientasi-Objek&theme=gotham&hide_border=true" alt="Pemrograman-Berorientasi-Objek" width="38%"></a>
   </div>
