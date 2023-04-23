@@ -1,12 +1,22 @@
 <h1 align="center"><b>Hi , I'm Samuel Sihotang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="#hi--im-samuel-sihotang-"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=70A5FD&size=23&pause=500&height=50&lines=Excited+to+learn+new+stuff;Problem+Solver+and+Creative;Proficient in Java and C" alt="Excited to learn new stuff"/></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&pause=500&height=50&lines=Excited+to+learn+new+stuff;Problem+Solver+and+Creative;Proficient in Java and C" alt="Excited to learn new stuff"/></a>
 
-<a href="#hi--im-samuel-sihotang-"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsihotang1&theme=tokyonight&layout=compact&hide_border=true" width="375" align=right alt="samuelsihotang1"/></a>
+I am a 🎓 undergraduate student @ Del Institute of Technology<br>
+I enjoy learning new stuff, even when it is difficult. I never give up because it is incredibly satisfying when I succeed after experiencing multiple failures.
 
-I am a 🎓 undergraduate student @ Del Institute of Technology
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile" width="380" align=right alt="samuelsihotang1"/></a>
 
 #### 👉 About Me
 
-- 🖥 Favorite language: Java
-- ⌨ Favorite editor: Visual Studio Code
+- 🌱 I’m currently learning: Laravel
+- 🎓 College Major: Information Systems
+- 📍 Country: Indonesia
+- ✉️ Email: samsihotang1@gmail.com
+- 📱 WhatsApp: +62895612360693
+ 
+  <div align="center">
+  <a href="https://github.com/samuelsihotang1/Pemrograman-Prosedural"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Prosedural&theme=gotham&hide_border=true" alt="Pemrograman-Prosedural" width="38%"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/samuelsihotang1/Pemrograman-Berorientasi-Objek"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Berorientasi-Objek&theme=gotham&hide_border=true" alt="Pemrograman-Berorientasi-Objek" width="38%"></a>
+  </div>
