@@ -5,7 +5,7 @@
 I am a 🎓 undergraduate student @ Del Institute of Technology. I enjoy learning new stuff, even when it is difficult.<br>
 I never give up because it is incredibly satisfying when I succeed after experiencing multiple failures.
 
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile" width="380" align=right alt="samuelsihotang1"/></a>
+<a href="#my-programming-tasks"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile" width="380" align=right alt="samuelsihotang1"/></a>
 
 #### 👉 About Me
 
