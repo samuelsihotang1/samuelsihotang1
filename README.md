@@ -2,8 +2,8 @@
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&pause=500&height=50&lines=Excited+to+learn+new+stuff;Problem+Solver+and+Creative;Proficient in Java and C" alt="Excited to learn new stuff"/></a>
 
-I am a 🎓 undergraduate student @ Del Institute of Technology<br>
-I enjoy learning new stuff, even when it is difficult. I never give up because it is incredibly satisfying when I succeed after experiencing multiple failures.
+I am a 🎓 undergraduate student @ Del Institute of Technology. I enjoy learning new stuff, even when it is difficult.<br>
+I never give up because it is incredibly satisfying when I succeed after experiencing multiple failures.
 
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile" width="380" align=right alt="samuelsihotang1"/></a>
 
