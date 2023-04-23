@@ -17,6 +17,7 @@ I never give up because it is incredibly satisfying when I succeed after experie
  <br>
  
   <div align="center">
-  <a href="https://github.com/samuelsihotang1/Pemrograman-Prosedural"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Prosedural&theme=gotham&hide_border=true&show_description=true" alt="Pemrograman-Prosedural" width="35%"></a>
-  <a href="https://github.com/samuelsihotang1/Pemrograman-Berorientasi-Objek"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Berorientasi-Objek&theme=gotham&hide_border=true&show_description=true" alt="Pemrograman-Berorientasi-Objek" width="35%"></a>
+    <a href="https://github.com/samuelsihotang1/Pemrograman-Prosedural"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Prosedural&show_description=true&theme=gotham&hide_border=true" alt="Pemrograman-Prosedural" width="38%"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/samuelsihotang1/Pemrograman-Berorientasi-Objek"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Berorientasi-Objek&show_description=true&theme=gotham&hide_border=true" alt="Pemrograman-Berorientasi-Objek" width="38%"></a>
   </div>
