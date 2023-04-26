@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Samuel Sihotang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&pause=500&height=50&lines=Excited+to+learn+new+stuff;Problem+Solver+and+Creative;Proficient in Java and C" alt="Excited to learn new stuff"/></a>
+<a href="#my-programming-tasks"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&pause=500&height=50&lines=Excited+to+learn+new+stuff;Problem+Solver+and+Creative;Proficient in Java and C" alt="Excited to learn new stuff"/></a>
 
 I am a 🎓 undergraduate student @ Del Institute of Technology. I enjoy learning new stuff, even when it is difficult.<br>
 I never give up because it is incredibly satisfying when I succeed after experiencing multiple failures.
@@ -13,6 +13,7 @@ I never give up because it is incredibly satisfying when I succeed after experie
 - 🎓 College Major: Information Systems
 - 📍 Country: Indonesia
 - ✉️ Email: samsihotang1@gmail.com
+
 <br>
 <h3 align="center">My Programming Tasks</h3>
   <div align="center">
