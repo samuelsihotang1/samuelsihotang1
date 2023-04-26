@@ -5,7 +5,7 @@
 I am a 🎓 undergraduate student @ Del Institute of Technology. I enjoy learning new stuff, even when it is difficult.<br>
 I never give up because it is incredibly satisfying when I succeed after experiencing multiple failures.
 
-<a href="#my-programming-tasks"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile" width="380" align=right alt="samuelsihotang1"/></a>
+<a href="#my-programming-tasks"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile" width="340" align=right alt="samuelsihotang1"/></a>
 
 #### 👉 About Me
 
@@ -13,7 +13,6 @@ I never give up because it is incredibly satisfying when I succeed after experie
 - 🎓 College Major: Information Systems
 - 📍 Country: Indonesia
 - ✉️ Email: samsihotang1@gmail.com
-- 📱 WhatsApp: +62895612360693
 <br>
 <h3 align="center">My Programming Tasks</h3>
   <div align="center">
