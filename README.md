@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Samuel Sihotang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="#my-programming-tasks"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&pause=350&height=50&lines=Excited+to+learn+new+stuff;Problem+Solver+and+Creative;Proficient in Java and C" alt="Excited to learn new stuff"/></a>
+<a href="#my-programming-tasks"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&height=50&lines=Excited+to+learn+new+stuff;Problem+Solver+and+Creative;Proficient in Java and C" alt="Excited to learn new stuff"/></a>
 
 I am a highly motivated individual with a strong interest in software development, currently pursuing an undergraduate degree in Information Systems. I have a tenacious approach to learning, embracing failure as a natural part of the process towards achieving success. I thrive in collaborative environments and am receptive to guidance from experienced professionals.
 
