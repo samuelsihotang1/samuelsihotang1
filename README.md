@@ -2,14 +2,14 @@
 
 <a href="#my-programming-tasks"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&pause=500&height=50&lines=Excited+to+learn+new+stuff;Problem+Solver+and+Creative;Proficient in Java and C" alt="Excited to learn new stuff"/></a>
 
-I am an undergraduate student in information systems at the Del Institute of Technology who is passionate about learning new things, especially in the field of software development. I never give up because it is incredibly satisfying when I succeed after experiencing multiple failures. I am able to work effectively in a team and am willing to be led by experienced individuals.
+I am a highly motivated individual with a strong interest in software development, currently pursuing an undergraduate degree in Information Systems. I have a tenacious approach to learning, embracing failure as a natural part of the process towards achieving success. I thrive in collaborative environments and am receptive to guidance from experienced professionals.
 
 <a href="#my-programming-tasks"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile" width="340" align=right alt="samuelsihotang1"/></a>
 
 #### 👉 About Me
 
 - 🌱 I’m currently learning: Laravel
-- 🎓 College Major: Information Systems
+- 🎓 Education: Del Institute of Technology
 - 📍 Country: Indonesia
 - ✉️ Email: samsihotang1@gmail.com
 
