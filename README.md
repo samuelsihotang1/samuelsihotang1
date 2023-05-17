@@ -4,9 +4,9 @@
 
 I am a highly motivated individual with a strong interest in software development, currently pursuing an undergraduate degree in Information Systems. I have a tenacious approach to learning, embracing failure as a natural part of the process towards achieving success. I thrive in collaborative environments and am receptive to guidance from experienced professionals.
 
-<a href="#my-programming-tasks"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile" width="340" align=right alt="samuelsihotang1"/></a>
+<!--<a href="#my-programming-tasks">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)</a>-->
 
-#### 👉 About Me
+### 👉 About Me</h3>
 
 - 🌱 I’m currently learning: Laravel
 - 🎓 Education: Del Institute of Technology
