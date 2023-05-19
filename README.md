@@ -20,3 +20,6 @@ I am a highly motivated individual with a strong interest in software developmen
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/samuelsihotang1/Pemrograman-Berorientasi-Objek"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Berorientasi-Objek&theme=gotham&hide_border=true&show_description=false" alt="Pemrograman-Berorientasi-Objek" width="47%"></a>
   </div>
+  <div align="center">
+  <a href="https://github.com/samuelsihotang1/Jaringan-Komputer"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Jaringan-Komputer&theme=gotham&hide_border=true&show_description=false" alt="Jaringan-Komputer" width="47%"></a>
+  </div>
