@@ -8,7 +8,7 @@ I am a highly motivated individual with a strong interest in software developmen
 
 ### 👉 About Me</h3>
 
-- 🌱 I’m currently learning: Laravel
+- 🌱 I’m currently learning: Front-end Web Development
 - 🎓 Education: Del Institute of Technology
 - 📍 Country: Indonesia
 - ✉️ Email: samsihotang1@gmail.com
