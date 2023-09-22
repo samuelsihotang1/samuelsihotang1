@@ -15,18 +15,18 @@ I am a highly motivated individual with a strong interest in software developmen
 
 <br>
 <h3 align="center">My Latest Portfolio</h3>
-  <div align="center">
+<!--   <div align="center">
    <a href="https://github.com/samuelsihotang1/Bebras-Help-Desk-Application"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Bebras-Help-Desk-Application&theme=gotham&hide_border=true&show_description=false" alt="Bebras-Help-Desk-Application" width="47%"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/samuelsihotang1/QnA-Website"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=QnA-Website&theme=gotham&hide_border=true&show_description=false" alt="QnA-Website" width="47%"></a>
-  </div>
+  </div> -->
   
   <div align="center">
    <a href="https://github.com/samuelsihotang1/Laravel-Krs"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Laravel-Krs&theme=gotham&hide_border=true&show_description=false" alt="Laravel-Krs" width="47%"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/samuelsihotang1/Pemrograman-Berorientasi-Objek"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Berorientasi-Objek&theme=gotham&hide_border=true&show_description=false" alt="Pemrograman-Berorientasi-Objek" width="47%"></a>
+  <a href="https://github.com/samuelsihotang1/QnA-Website"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=QnA-Website&theme=gotham&hide_border=true&show_description=false" alt="QnA-Website" width="47%"></a>
   </div>
   
-<!--   <div align="center">
-  <a href="https://github.com/samuelsihotang1/Jaringan-Komputer"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Jaringan-Komputer&theme=gotham&hide_border=true&show_description=false" alt="Jaringan-Komputer" width="47%"></a>
-  </div> -->
+<div align="center">
+  <a href="https://github.com/samuelsihotang1/Pemrograman-Berorientasi-Objek"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Pemrograman-Berorientasi-Objek&theme=gotham&hide_border=true&show_description=false" alt="Pemrograman-Berorientasi-Objek" width="47%"></a>
+  </div>
