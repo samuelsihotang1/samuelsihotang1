@@ -10,8 +10,11 @@ I have a keen passion for web development and business. I always achieve what I 
 
 - 🌱 I am Full Stack Web Developer
 - 🎓 Education: Del Institute of Technology
-- 📍 Country: Indonesia
-- ✉️ Email: samsihotang1@gmail.com
+
+Portfolio:
+- https://samuelsihotang.my.id/
+- https://kantin.samuelsihotang.my.id/
+- https://loker.samuelsihotang.my.id/
 
 <br>
 <h3 align="center">My Latest Portfolio</h3>
