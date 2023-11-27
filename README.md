@@ -29,6 +29,4 @@ I have a keen passion for web development and business. I always achieve what I 
   
   <div align="center">
   <a href="https://github.com/samuelsihotang1/Website-Lowongan-Kerja"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Website-Lowongan-Kerja&theme=gotham&hide_border=true&show_description=false" alt="Website-Lowongan-Kerja" width="47%"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/samuelsihotang1/Laravel-Krs"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Laravel-Krs&theme=gotham&hide_border=true&show_description=false" alt="Laravel-Krs" width="47%"></a>
   </div>
