@@ -11,13 +11,12 @@ I have a keen passion for web development and business. I always achieve what I 
 - 🌱 I am Full Stack Web Developer
 - 🎓 Education: Del Institute of Technology
 
-Portfolio:
+<h3 align="center">My Latest Portfolio</h3>
+
 - https://samuelsihotang.my.id/
 - https://kantin.samuelsihotang.my.id/
 - https://loker.samuelsihotang.my.id/
-
-<br>
-<h3 align="center">My Latest Portfolio</h3>
+<!-- <br>
 <!--   <div align="center">
    <a href="https://github.com/samuelsihotang1/Bebras-Help-Desk-Application"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Bebras-Help-Desk-Application&theme=gotham&hide_border=true&show_description=false" alt="Bebras-Help-Desk-Application" width="47%"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
