@@ -15,7 +15,7 @@ I have a keen passion for web development and business. I always achieve what I 
 ### 🌏 List of websites I've worked on
 
 - Bebras Help Desk Application = https://samuelsihotang.my.id/
-- Food Rating = https://kantin.samuelsihotang.my.id/
+- Cafetaria = https://kantin.samuelsihotang.my.id/
 - Job Vacancy = https://loker.samuelsihotang.my.id/
 
 <!-- <br>
