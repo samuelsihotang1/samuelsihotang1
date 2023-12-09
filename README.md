@@ -6,16 +6,18 @@ I have a keen passion for web development and business. I always achieve what I 
 
 <!--<a href="#my-programming-tasks">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)</a>-->
 
-### 👉 About Me</h3>
+### 👉 About Me
 
 - 🌱 I am Full Stack Web Developer
 - 🎓 Education: Del Institute of Technology
 
-<h3 align="center">My Latest Portfolio</h3>
 
-- https://samuelsihotang.my.id/
-- https://kantin.samuelsihotang.my.id/
-- https://loker.samuelsihotang.my.id/
+### 🌏 List of websites I've worked on
+
+- Bebras Help Desk Application = https://samuelsihotang.my.id/
+- Food Rating = https://kantin.samuelsihotang.my.id/
+- Job Vacancy = https://loker.samuelsihotang.my.id/
+
 <!-- <br>
 <!--   <div align="center">
    <a href="https://github.com/samuelsihotang1/Bebras-Help-Desk-Application"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Bebras-Help-Desk-Application&theme=gotham&hide_border=true&show_description=false" alt="Bebras-Help-Desk-Application" width="47%"></a>
