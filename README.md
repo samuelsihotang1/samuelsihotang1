@@ -17,6 +17,7 @@ I have a keen passion for web development and business. I always achieve what I 
 - Bebras Help Desk Application = https://samuelsihotang.my.id/
 - Cafetaria = https://kantin.samuelsihotang.my.id/
 - Job Vacancy = https://loker.samuelsihotang.my.id/
+- Laundry Del = https://laundry.samuelsihotang.my.id/
 
 <!-- <br>
 <!--   <div align="center">
@@ -33,4 +34,5 @@ I have a keen passion for web development and business. I always achieve what I 
   
   <div align="center">
   <a href="https://github.com/samuelsihotang1/Job-Vacancy"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Job-Vacancy&theme=gotham&hide_border=true&show_description=false" alt="Job-Vacancy" width="47%"></a>
+  <a href="https://github.com/samuelsihotang1/Laundry-Del"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Laundry-Del&theme=gotham&hide_border=true&show_description=false" alt="Laundry-Del" width="47%"></a>
   </div>
