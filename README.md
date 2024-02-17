@@ -2,7 +2,8 @@
 
 <a href="#my-programming-tasks"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&height=50&lines=Full Stack Web Developer;PHP Laravel Developer" alt="Full Stack Web Developer"/></a>
 
-I have a keen passion for web development and business. I always achieve what I want with my own way. Failure is part of the process.
+I have a keen passion for web development and business. I will put in all my effort to achieve my goals.
+Failure is part of the process.
 
 <!--<a href="#my-programming-tasks">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)</a>-->
 
@@ -10,14 +11,16 @@ I have a keen passion for web development and business. I always achieve what I 
 
 - 🌱 I am Full Stack Web Developer
 - 🎓 Education: Del Institute of Technology
+- 🛠️ Framework: Laravel, Tailwind, Alpine JS
+- 💻 Programming Language: PHP, Javascript, Java, C
 
 
-### 🌏 List of websites I've worked on
+### 🌐 List of websites I've worked on
 
-- Bebras Help Desk Application 
-- Cafetaria 
-- Job Vacancy 
-- Laundry Del 
+- 👨🏻‍🏫 Bebras Help Desk Application 
+- 🍽️ Cafetaria 
+- 💼 Job Vacancy 
+- 🧺 Laundry Del 
 
 <!-- <br>
 <!--   <div align="center">
