@@ -19,7 +19,6 @@ Failure is part of the process.
 
 - 👨🏻‍🏫 Bebras Help Desk Application 
 - 🍽️ Cafetaria 
-- 💼 Job Vacancy 
 - 🧺 Laundry Del 
 
 <!-- <br>
@@ -32,10 +31,10 @@ Failure is part of the process.
   <div align="center">
   <a href="https://github.com/samuelsihotang1/Bebras-Help-Desk-Application"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Bebras-Help-Desk-Application&theme=gotham&hide_border=true&show_description=false" alt="Bebras-Help-Desk-Application" width="47%"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/samuelsihotang1/Cafetaria"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Cafetaria&theme=gotham&hide_border=true&show_description=false" alt="Cafetaria" width="47%"></a>
+<!--   <a href="https://github.com/samuelsihotang1/Job-Vacancy"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Job-Vacancy&theme=gotham&hide_border=true&show_description=false" alt="Job-Vacancy" width="47%"></a> -->
   </div>
   
   <div align="center">
-  <a href="https://github.com/samuelsihotang1/Job-Vacancy"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Job-Vacancy&theme=gotham&hide_border=true&show_description=false" alt="Job-Vacancy" width="47%"></a>
+   <a href="https://github.com/samuelsihotang1/Cafetaria"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Cafetaria&theme=gotham&hide_border=true&show_description=false" alt="Cafetaria" width="47%"></a>
   <a href="https://github.com/samuelsihotang1/Laundry-Del"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Laundry-Del&theme=gotham&hide_border=true&show_description=false" alt="Laundry-Del" width="47%"></a>
   </div>
