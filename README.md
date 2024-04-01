@@ -19,7 +19,7 @@ Experienced working on more than 3 website development projects and honed my ski
 - 👨🏻‍🏫 Bebras Help Desk Application - Web
 - 🍽️ Cafetaria - Web
 - 🧺 Laundry Del - Web
-- ⚡ CRUD and Authentication
+- ⚡ CRUD and Authentication - Web
 - 📰 MandiriNews - App
 
 <!-- <br>
