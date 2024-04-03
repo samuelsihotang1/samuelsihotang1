@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Samuel Sihotang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="#my-programming-tasks"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&height=50&lines=Full Stack Web Developer;Proficient in Laravel, Gin GO, Flutter" alt="Full Stack Web Developer"/></a>
+<a href="#portfolio"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&height=50&lines=Full Stack Web Developer;Proficient in Laravel, Gin GO, Flutter" alt="Full Stack Web Developer"/></a>
 
 Experienced working on more than 3 website development projects and honed my skills as a developer. Have taught and collaborated with a team of fellow teaching assistants. Known as a strategic thinker, good student and team leader and reliable teammate.
 
@@ -29,7 +29,7 @@ Experienced working on more than 3 website development projects and honed my ski
   <a href="https://github.com/samuelsihotang1/QnA-Website"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=QnA-Website&theme=gotham&hide_border=true&show_description=false" alt="QnA-Website" width="47%"></a>
   </div> -->
 
- <div align="center">
+ <div id="portfolio" align="center">
   <a href="https://github.com/samuelsihotang1/Bebras-Help-Desk-Application"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Bebras-Help-Desk-Application&theme=gotham&hide_border=true&show_description=false" alt="Bebras-Help-Desk-Application" width="47%"></a>
    <a href="https://github.com/samuelsihotang1/Cafetaria"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Cafetaria&theme=gotham&hide_border=true&show_description=false" alt="Cafetaria" width="47%"></a>
   </div>
