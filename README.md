@@ -4,6 +4,11 @@
 
 Experienced working on more than 3 website development projects and honed my skills as a developer. Have taught and collaborated with a team of fellow teaching assistants. Known as a strategic thinker, good student and team leader and reliable teammate.
 
+### 📌 Click!
+ - <a href="https://github.com/samuelsihotang1/samuelsihotang1/blob/main/CV_SamuelChristyAngieSihotang.pdf">✨ My Curriculum Vitae (CV)</a> 
+ - <a href="https://github.com/samuelsihotang1/samuelsihotang1/blob/main/Portfolio_SamuelChristyAngieSihotang.pdf">🔥 My Portfolio</a>
+
+
 <!--<a href="#my-programming-tasks">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)</a>-->
 
 ### 👉 About Me
