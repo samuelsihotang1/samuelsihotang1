@@ -8,9 +8,6 @@ Experienced working on more than 3 website development projects and honed my ski
  - <a href="https://github.com/samuelsihotang1/samuelsihotang1/blob/main/CV_SamuelChristyAngieSihotang.pdf">✨ My Curriculum Vitae (CV)</a> 
  - <a href="https://samz.my.id">🔥 My Portfolio</a>
 
-
-<!--<a href="#my-programming-tasks">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)</a>-->
-
 ### 👉 About Me
 
 - 🌱 I am Full Stack Web and Mobile Developer
@@ -26,13 +23,6 @@ Experienced working on more than 3 website development projects and honed my ski
 - 🧺 Laundry Del - Web
 - ⚡ Profile - Web
 - 📰 MandiriNews - App
-
-<!-- <br>
-<!--   <div align="center">
-   <a href="https://github.com/samuelsihotang1/Bebras-Help-Desk-Application"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Bebras-Help-Desk-Application&theme=gotham&hide_border=true&show_description=false" alt="Bebras-Help-Desk-Application" width="47%"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/samuelsihotang1/QnA-Website"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=QnA-Website&theme=gotham&hide_border=true&show_description=false" alt="QnA-Website" width="47%"></a>
-  </div> -->
 
  <div id="portfolio" align="center">
   <a href="https://github.com/samuelsihotang1/Bebras-Help-Desk-Application"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Bebras-Help-Desk-Application&theme=gotham&hide_border=true&show_description=false" alt="Bebras-Help-Desk-Application" width="47%"></a>
