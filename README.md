@@ -12,8 +12,8 @@ Experienced working on more than 3 website development projects and honed my ski
 
 - 🌱 I am Full Stack Web and Mobile Developer
 - 🎓 Education: Del Institute of Technology
-- 🛠️ Framework: Laravel, Gin GO, Flutter, Tailwind, Alpine JS
-- 💻 Programming Language: Dart, GO, PHP, Javascript, Java, C
+- 🛠️ Framework: .Net, Laravel, Gin GO, Flutter, Tailwind, Alpine JS
+- 💻 Programming Language: C#, Dart, GO, PHP, Javascript, Java, C
 
 
 ### 🌐 List of projects I've worked on
