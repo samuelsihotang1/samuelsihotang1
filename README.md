@@ -6,7 +6,7 @@ Experienced working on more than 3 website development projects and honed my ski
 
 ### 📌 Click!
  - <a href="https://github.com/samuelsihotang1/samuelsihotang1/blob/main/CV_SamuelChristyAngieSihotang.pdf">✨ My Curriculum Vitae (CV)</a> 
- - <a href="https://github.com/samuelsihotang1/samuelsihotang1/blob/main/Portfolio_SamuelChristyAngieSihotang.pdf">🔥 My Portfolio</a>
+ - <a href="https://samz.my.id">🔥 My Portfolio</a>
 
 
 <!--<a href="#my-programming-tasks">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsihotang1&theme=gotham&hide_border=true&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)</a>-->
