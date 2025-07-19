@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Samuel Sihotang </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<a href="#portfolio"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&height=50&lines=Full Stack Web Developer;Proficient in Laravel, Gin GO, Flutter" alt="Full Stack Web Developer"/></a>
+<a href="#portfolio"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&height=50&lines=Full+Stack+Developer;Proficient+in+C%23,+.NET,+Laravel,+Gin+GO,+Flutter" alt="Full Stack Developer" /></a>
 
 Experienced working on more than 3 website development projects and honed my skills as a developer. Have taught and collaborated with a team of fellow teaching assistants. Known as a strategic thinker, good student and team leader and reliable teammate.
 
