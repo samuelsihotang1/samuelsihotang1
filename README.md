@@ -2,7 +2,7 @@
 
 <a href="#portfolio"><img src="https://readme-typing-svg.demolab.com?font=Cairo+Play&color=2AA889&size=23&height=50&lines=Full+Stack+Developer;Proficient+in+C%23,+.NET,+Laravel,+Gin+GO,+Flutter" alt="Full Stack Developer" /></a>
 
-Experienced working on more than 3 website development projects and honed my skills as a developer. Have taught and collaborated with a team of fellow teaching assistants. Known as a strategic thinker, good student and team leader and reliable teammate.
+Experienced in working on more than 8 development projects and honed my skills as a developer. My expertise spans the full development lifecycle, from creating secure back-end APIs that communicate directly with databases, to building responsive web applications for data management and reporting.
 
 ### 📌 Click!
  - <a href="https://github.com/samuelsihotang1/samuelsihotang1/blob/main/CV_SamuelChristyAngieSihotang.pdf">✨ My Curriculum Vitae (CV)</a> 
