@@ -25,16 +25,17 @@ Experienced in working on more than 8 development projects and honed my skills a
 - 📰 MandiriNews - App
 
  <div id="portfolio" align="center">
+   <a href="https://github.com/samuelsihotang1/docker-laravel-frankenphp-octane"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=docker-laravel-frankenphp-octane&theme=gotham&hide_border=true&show_description=false" alt="docker-laravel-frankenphp-octane" width="47%"></a>
   <a href="https://github.com/samuelsihotang1/Bebras-Help-Desk-Application"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Bebras-Help-Desk-Application&theme=gotham&hide_border=true&show_description=false" alt="Bebras-Help-Desk-Application" width="47%"></a>
+  </div>
+  
+  <div align="center">
    <a href="https://github.com/samuelsihotang1/Cafetaria"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Cafetaria&theme=gotham&hide_border=true&show_description=false" alt="Cafetaria" width="47%"></a>
-  </div>
-  
-  <div align="center">
   <a href="https://github.com/samuelsihotang1/Laundry-Del"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Laundry-Del&theme=gotham&hide_border=true&show_description=false" alt="Laundry-Del" width="47%"></a>
-   <a href="https://github.com/samuelsihotang1/task-5-pbi-btpns-SamuelChristyAngieSihotang"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=task-5-pbi-btpns-SamuelChristyAngieSihotang&theme=gotham&hide_border=true&show_description=false" alt="Task-5" width="47%"></a>
   </div>
   
+  
   <div align="center">
+   <a href="https://github.com/samuelsihotang1/task-5-pbi-btpns-SamuelChristyAngieSihotang"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=task-5-pbi-btpns-SamuelChristyAngieSihotang&theme=gotham&hide_border=true&show_description=false" alt="Task-5" width="47%"></a>
   <a href="https://github.com/samuelsihotang1/MandiriNews-App-by-Samuel-Sihotang"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=MandiriNews-App-by-Samuel-Sihotang&theme=gotham&hide_border=true&show_description=false" alt="MandiriNews-App-by-Samuel-Sihotang" width="47%"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
