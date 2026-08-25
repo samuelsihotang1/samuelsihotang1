@@ -43,7 +43,7 @@ Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms a
 
 <div id="projects">
 
-- 🔗 [**SiniAja!**](https://siniajafrontend.vercel.app/) — Link-in-bio platform with a Laravel API backend (83 endpoints, 27 tables) and a React + TypeScript SPA, Sanctum auth, Google Sign-In, hand-implemented TOTP MFA, bilingual UI, and 337 automated Pest tests. `Laravel` `React` `TypeScript` `MySQL`
+- 🔗 [**SiniAja!**](https://siniaja.samz.my.id/) — Link-in-bio platform with a Laravel API backend (83 endpoints, 27 tables) and a React + TypeScript SPA, Sanctum auth, Google Sign-In, hand-implemented TOTP MFA, bilingual UI, and 337 automated Pest tests. `Laravel` `React` `TypeScript` `MySQL`
 - 🎬 [**Mavie Cinema**](https://github.com/samuelsihotang1/Mavie-Cinema) — Cinema website with subscription and payment gateway features, running on FrankenPHP. `Laravel` `React` `MySQL`
 - 💳 [**Transaction w Auth**](https://netcore-app-samz.vercel.app) — Product, order, and authentication management system with a .NET Core (C#) backend and a React + Vite + TailwindCSS frontend. `ASP.NET Core` `React` `SQL Server`
 - 🧑🏻‍🏫 [**Bebras Help Desk Application**](https://github.com/samuelsihotang1/Bebras-Help-Desk-Application) — Discussion forum helping educators share knowledge and run Q&A sessions. `Laravel` `Livewire` `MySQL`
