@@ -23,7 +23,7 @@ Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms a
 - 🌱 Software Engineer based in Jakarta, Indonesia
 - 🎓 Bachelor Degree in Information System (3.65/4.00), Del Institute of Technology
 - 💼 Currently a Junior Software Engineer at IGCY Singapore, building retail ERP, POS, and loyalty platforms
-- 🛠️ Frameworks: Laravel, Angular, Ionic Angular, React, .NET, Flutter, Livewire, Tailwind CSS
+- 🛠️ Frameworks: Laravel, Angular, Ionic Angular, React, Fastify, .NET, Flutter, Livewire, Tailwind CSS
 - 💻 Languages: C#, PHP, JavaScript, TypeScript, Dart, Java, Go
 
 ### 💼 Work Experience
@@ -43,6 +43,7 @@ Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms a
 
 <div id="projects">
 
+- 🎯 [**Habit Shaper**](https://habit.samz.my.id/) — Habit tracker for building good habits and breaking bad ones, with a Fastify + TypeScript REST API and a React 19 SPA, streaks and weekly completion rates computed in each user's time zone, TOTP two-factor sign-in, and 130+ automated tests, shipped as one Docker Compose stack. `React` `TypeScript` `Fastify` `MySQL` `Redis` `Docker`
 - 🔗 [**SiniAja!**](https://siniaja.samz.my.id/) — Link-in-bio platform with a Laravel API backend (83 endpoints, 27 tables) and a React + TypeScript SPA, Sanctum auth, Google Sign-In, hand-implemented TOTP MFA, bilingual UI, and 337 automated Pest tests. `Laravel` `React` `TypeScript` `MySQL`
 - 🎬 [**Mavie Cinema**](https://github.com/samuelsihotang1/Mavie-Cinema) — Cinema website with subscription and payment gateway features, running on FrankenPHP. `Laravel` `React` `MySQL`
 - 💳 [**Transaction w Auth**](https://netcore-app-samz.vercel.app) — Product, order, and authentication management system with a .NET Core (C#) backend and a React + Vite + TailwindCSS frontend. `ASP.NET Core` `React` `SQL Server`
