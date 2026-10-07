@@ -24,7 +24,7 @@ Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms a
 - 🎓 Bachelor Degree in Information System (3.65/4.00), Del Institute of Technology
 - 💼 Currently a Junior Software Engineer at Alturian Indonesia, building retail ERP, POS, and loyalty platforms
 - 🛠️ Frameworks: Laravel, Angular, Ionic Angular, React, Fastify, Gin, .NET, Flutter, Livewire, Tailwind CSS
-- 💻 Languages: C#, PHP, JavaScript, TypeScript, Dart, Java, Go
+- 💻 Languages: C#, PHP, JavaScript, TypeScript, Dart, Java, Go, Kotlin, Swift
 
 ### 💼 Work Experience
 
@@ -43,6 +43,7 @@ Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms a
 
 <div id="projects">
 
+- 📲 **Photopho** — Moves photos from a phone to a laptop over a data cable or the same Wi-Fi, then deletes from the phone only what is SHA-256 verified on the laptop. Its own HTTPS protocol (the phone serves, the laptop fetches) with mDNS/USB discovery and pinned-TLS pairing, a Go + Wails desktop app for Windows and macOS, Kotlin and SwiftUI phone apps, and 180+ automated tests; moved 12,000 photos off a 4 GB-RAM phone at an 81.5 MB memory peak. `Go` `React` `TypeScript` `Kotlin` `Swift`
 - 🎯 [**Habit Shaper**](https://habit.samz.my.id/) — Habit tracker for building good habits and breaking bad ones, with a Fastify + TypeScript REST API and a React 19 SPA, streaks and weekly completion rates computed in each user's time zone, TOTP two-factor sign-in, and 130+ automated tests, shipped as one Docker Compose stack. `React` `TypeScript` `Fastify` `MySQL` `Redis` `Docker`
 - 🔗 [**SiniAja!**](https://siniaja.samz.my.id/) — Link-in-bio platform with a Go (Gin + GORM) API backend (79 endpoints, 10 tables) and a React + TypeScript SPA, token auth, Google Sign-In, hand-implemented TOTP MFA, bilingual UI, and 65 automated Go tests. `Go` `Gin` `React` `TypeScript` `MySQL`
 - 🎬 [**Mavie Cinema**](https://github.com/samuelsihotang1/Mavie-Cinema) — Cinema website with subscription and payment gateway features, running on FrankenPHP. `Laravel` `React` `MySQL`
@@ -52,16 +53,6 @@ Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms a
 - 🍽️ [**Cafetaria**](https://github.com/samuelsihotang1/Cafetaria) — Rating platform helping cafeteria operators evaluate their food menus. `Laravel` `Livewire` `MySQL`
 
 </div>
-
- <div align="center">
-   <a href="https://github.com/samuelsihotang1/Mavie-Cinema"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Mavie-Cinema&theme=gotham&hide_border=true&show_description=false" alt="Mavie-Cinema" width="47%"></a>
-  <a href="https://github.com/samuelsihotang1/Bebras-Help-Desk-Application"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Bebras-Help-Desk-Application&theme=gotham&hide_border=true&show_description=false" alt="Bebras-Help-Desk-Application" width="47%"></a>
-  </div>
-
-  <div align="center">
-   <a href="https://github.com/samuelsihotang1/Cafetaria"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Cafetaria&theme=gotham&hide_border=true&show_description=false" alt="Cafetaria" width="47%"></a>
-  <a href="https://github.com/samuelsihotang1/Laundry-Del"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=samuelsihotang1&repo=Laundry-Del&theme=gotham&hide_border=true&show_description=false" alt="Laundry-Del" width="47%"></a>
-  </div>
 
 ### ✉️ Contact
 
