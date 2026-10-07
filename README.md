@@ -22,7 +22,7 @@ Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms a
 
 - 🌱 Software Engineer based in Jakarta, Indonesia
 - 🎓 Bachelor Degree in Information System (3.65/4.00), Del Institute of Technology
-- 💼 Currently a Junior Software Engineer at Alturian Indonesia, building retail ERP, POS, and loyalty platforms
+- 💼 Currently a Software Engineer at Alturian Indonesia, building retail ERP, POS, and loyalty platforms
 - 🛠️ Frameworks: Laravel, Angular, Ionic Angular, React, Fastify, Gin, .NET, Flutter, Livewire, Tailwind CSS
 - 💻 Languages: C#, PHP, JavaScript, TypeScript, Dart, Java, Go, Kotlin, Swift
 
@@ -30,7 +30,7 @@ Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms a
 
 | Period | Role | Company |
 |---|---|---|
-| Oct 2025 - Present | Junior Software Engineer | Alturian Indonesia |
+| Oct 2025 - Present | Software Engineer | Alturian Indonesia |
 | Aug 2024 - Jun 2025 | IT Developer Intern | PT Tera Multi Wahana |
 | Jun 2024 - Aug 2024 | Backend Developer Intern | PT Infosys Solusi Terpadu |
 
