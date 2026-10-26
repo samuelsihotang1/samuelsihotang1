@@ -11,7 +11,7 @@
 <a href="mailto:samsihotang1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
-Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms across 20+ applications for 5 enterprise clients, with Laravel, Angular, Ionic Angular, React, and .NET. Specializes in cross-system integration, multi-tenant architecture, and database performance tuning — cutting redundant API calls by 40% and developer debugging time by 70%.
+Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms across 10+ applications for 3 enterprise clients, with Laravel, Angular, Ionic Angular, React, and .NET. Specializes in cross-system integration, multi-tenant architecture, and database performance tuning — cutting redundant API calls by 40% and developer debugging time by 70%.
 
 ### 📌 Click!
 - <a href="https://github.com/samuelsihotang1/samuelsihotang1/blob/main/CV_SamuelChristyAngieSihotang.pdf">✨ My Curriculum Vitae (CV)</a>
