@@ -41,7 +41,17 @@ Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms a
 
 ### 🏅 Certifications
 
-- **HackerRank:** Software Engineer, Frontend Developer (React), SQL (Advanced), Go (Intermediate), Problem Solving, JavaScript, C#, CSS, Java
+HackerRank:
+
+- Software Engineer
+- Frontend Developer (React)
+- SQL (Advanced)
+- Go (Intermediate)
+- Problem Solving
+- JavaScript
+- C#
+- CSS
+- Java
 
 ### 🌐 Projects
 
