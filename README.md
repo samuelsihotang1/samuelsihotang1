@@ -39,6 +39,10 @@ Full-stack Software Engineer delivering retail ERP, POS, and loyalty platforms a
 - **Bachelor Degree in Information System**, 3.65/4.00 — Del Institute of Technology (Sep 2021 - Sep 2025)
 - **Certified Independent Study in Web Development & UI UX Design** – MSIB — Infinite Learning (Feb 2024 - Jun 2024)
 
+### 🏅 Certifications
+
+- **HackerRank:** Software Engineer, Frontend Developer (React), SQL (Advanced), Go (Intermediate), Problem Solving, JavaScript, C#, CSS, Java
+
 ### 🌐 Projects
 
 <div id="projects">
