@@ -47,8 +47,11 @@ HackerRank:
 - Frontend Developer (React)
 - SQL (Advanced)
 - Go (Intermediate)
-- Problem Solving
-- JavaScript
+- Angular (Intermediate)
+- Node.js (Intermediate)
+- REST API (Intermediate)
+- JavaScript (Intermediate)
+- Problem Solving (Intermediate)
 - C#
 - CSS
 - Java
